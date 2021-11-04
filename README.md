@@ -5,6 +5,8 @@ Datos de recolectados de los usuarios del robot Kenito
 Comandos soportados: alto, adelante, derecha, izquierda, despacio, rápido, y atrás.
 
 ## volunteers
-Datos de voluntarios: alto, adelante, derecha, izquierda, lento, rápido, y atrás.
+Datos de recolectados de voluntarios
+Comandos soportados: alto, adelante, derecha, izquierda, lento, rápido, y atrás.
 
-Cada conjunto de datos contiene dos subcarpetas con las datos originales y aumentados.
+## Nota
+Cada conjunto de datos contiene dos subcarpetas con las datos originales (audios_original) y aumentados(audios_augmentation).
